@@ -1,2 +1,2 @@
-start C:/Program Files/AdventureLauncher/AdventureLauncher.exe
+start C:/"Program Files"/AdventureLauncher/AdventureLauncher.exe
 exit
